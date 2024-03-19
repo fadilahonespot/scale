@@ -1,0 +1,3 @@
+Untuk mengambil data dari API menggunakan Golang, dapat menggunakan package net/http untuk 
+membuat HTTP request ke API dan package encoding/json untuk menguraikan respons JSON yang diterima. 
+Berikut adalah contoh sederhana:

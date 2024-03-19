@@ -1,0 +1,6 @@
+Untuk menemukan dan memperbaiki masalah performa dalam aplikasi Golang, 
+Dapat menggunakan beberapa alat seperti pprof untuk profilisasi kinerja dan tracing 
+untuk melacak aktivitas aplikasi. Dapat juga menggunakan benchmarking untuk 
+mengidentifikasi bagian-bagian kode yang lambat dan melakukan optimasi. Selain itu, 
+penting untuk memeriksa penggunaan memori dan melihat apakah ada kebocoran memori 
+atau penggunaan memori yang tidak efisien.
